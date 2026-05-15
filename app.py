@@ -659,7 +659,7 @@ with tabs[3]:
 
     st.markdown(
         """
-        Full working report: [Open Word Document](https://essexbio-my.sharepoint.com/:w:/g/personal/jacelyn_tay_essexbio_com_sg/IQBsHlFnYEITQYmQFo7tcDEOAfQmIBW6r4w-ACCxpIaTVNE?e=MPSAam)
+        Full working report: [Word Document](https://essexbio-my.sharepoint.com/:w:/g/personal/jacelyn_tay_essexbio_com_sg/IQBsHlFnYEITQYmQFo7tcDEOAd_s-1bnBItkqUmu0HbKIKk?e=3rLz9S)
         """
     )
 
